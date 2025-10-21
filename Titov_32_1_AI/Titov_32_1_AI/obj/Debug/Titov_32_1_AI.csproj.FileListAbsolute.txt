@@ -1,0 +1,10 @@
+Z:\Titov_32_1_AI\Titov_32_1_AI\bin\Debug\Titov_32_1_AI.exe.config
+Z:\Titov_32_1_AI\Titov_32_1_AI\bin\Debug\Titov_32_1_AI.exe
+Z:\Titov_32_1_AI\Titov_32_1_AI\bin\Debug\Titov_32_1_AI.pdb
+Z:\Titov_32_1_AI\Titov_32_1_AI\obj\Debug\Titov_32_1_AI.csproj.AssemblyReference.cache
+Z:\Titov_32_1_AI\Titov_32_1_AI\obj\Debug\Titov_32_1_AI.FormMain.resources
+Z:\Titov_32_1_AI\Titov_32_1_AI\obj\Debug\Titov_32_1_AI.Properties.Resources.resources
+Z:\Titov_32_1_AI\Titov_32_1_AI\obj\Debug\Titov_32_1_AI.csproj.GenerateResource.cache
+Z:\Titov_32_1_AI\Titov_32_1_AI\obj\Debug\Titov_32_1_AI.csproj.CoreCompileInputs.cache
+Z:\Titov_32_1_AI\Titov_32_1_AI\obj\Debug\Titov_32_1_AI.exe
+Z:\Titov_32_1_AI\Titov_32_1_AI\obj\Debug\Titov_32_1_AI.pdb
